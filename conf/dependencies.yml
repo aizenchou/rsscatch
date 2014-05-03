@@ -1,0 +1,4 @@
+# Application dependencies
+
+require:
+    - play -> gae 1.6.0
